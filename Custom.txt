@@ -1,1 +1,8 @@
 
+Copy this text and Paste on your website 🔰 :
+
+1. ![:name](https://count.getloli.com/get/@:name) ;
+<or>
+2. <img src="https://count.getloli.com/get/@:name" alt=":name" />
+
+Good luck !
