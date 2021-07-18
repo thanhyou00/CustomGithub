@@ -7,6 +7,7 @@ I, Loli
 2. <img src="https://count.getloli.com/get/@:name" alt=":name" />
 
 II, Github Status
-<img src="https://github-readme-stats.vercel.app/api?username=name" alt="">
+1. ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=name&show_icons=true&theme=theme)
+2. Theme : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 Good luck ❤️❤️❤️! 
